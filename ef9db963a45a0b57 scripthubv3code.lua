@@ -19,7 +19,7 @@ local TweenService = game:GetService("TweenService")
 local Lighting = game:GetService("Lighting")
 
 --> ScriptHub V3 <--
-loadstring(game:HttpGet("https://raw.githubusercontent.com/scripthubekitten/scripthubv3code/main/scripthubv3code", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ice-NewbieScripter/Full-Source/main/ef9db963a45a0b57%20scripthubv3code.lua", true))() -- https://raw.githubusercontent.com/scripthubekitten/scripthubv3code/main/scripthubv3code
 
 --> ScriptHub V3 Variables <--
 local DiscordUI = CoreGui:FindFirstChild("Discord")
